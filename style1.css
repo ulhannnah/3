@@ -1,0 +1,24 @@
+#1content {
+    display: grid inline;
+    grid-template-columns: 300px 1fr;
+    padding-left: 0px;
+}
+
+.inside1-1 {
+    display: inline;
+}
+
+#inside1 {
+    text-align: center;
+    border-bottom: 1px solid black;
+    padding: 10px;
+    margin: 0px;
+    padding-right:190px;
+}
+
+#inside1content {
+    margin: 10px;
+}
+#now1{
+    color:pink;
+}
